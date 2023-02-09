@@ -93,5 +93,5 @@ $ python3 unittest -m tests/test_console.py
 
 ## Authors :black_nib:
 
-* **Amaled Shumeta** <[Amaled](https://github.com/amiassefa)>
-* **   ** <[cisco2001](https://github.com/cisco2001)>
+* **<>
+* **   ** <>
